@@ -150,9 +150,9 @@ img, video, audio, iframe, table, form {
   top:0;
   left:0;
   width:100%;
-  Z-INDEX:2PX;
-  border-b:1PX SOLID #CCC;
-  TEXT-ALIGN:CENTRE;
+  z-index:2px;
+  border-b:1px solid #ccc;
+  text-align:center;
 }
 #navbar nav{
   border-left:1px solid #ccc;
