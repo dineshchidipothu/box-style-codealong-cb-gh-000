@@ -145,9 +145,22 @@ img, video, audio, iframe, table, form {
 
 
 /*////////// NAVBAR //////////*/
+#navbar{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  Z-INDEX:2PX;
+  border-b:1PX SOLID #CCC;
+  TEXT-ALIGN:CENTRE;
+}
+#navbar nav{
+  border-left:1px solid #ccc;
+}
 
-
-
+#navbar nav a{
+  display:inline-block;
+}
 /*////////// LOGO //////////*/
 
 
